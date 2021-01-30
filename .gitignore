@@ -1,0 +1,14 @@
+###> ide/eclipse ###
+/.buildpath
+/.project
+/.bash_history
+###< ide/eclipse ###
+
+###> nodejs ###
+/.env
+/.env.*.local
+/node_modules
+###< nodejs ###
+
+###> vuejs ###
+###< vuejs ###

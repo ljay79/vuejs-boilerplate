@@ -1,0 +1,7 @@
+# like .gitignore but for Docker build process ie when using COPY . /copy-all
+.docker/nodejs/Dockerfile
+node_modules
+.git
+.gitignore
+.composer/
+.cache/
